@@ -1,2 +1,3 @@
 # .github
-Teleport GitHub Organization Repository
+
+Community Health files for the @gravitational / Teleport Organization. 
