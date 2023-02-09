@@ -4,4 +4,6 @@ Teleport is dedicated to trusted, contemporary security. We're thankful for the 
 
 ### Reporting a Vulnerability
 
-If you have any questions, please [contact us](security@goteleport.com). We are deeply grateful to researchers and our community who report issues so that we can coordinate a fix and responsible disclosure.
+If you have a novel security vulnerability in Teleport or our products, please submit it [via our HackerOne program](https://hackerone.com/teleport)
+
+If you have any questions, please [contact us](mailto:security@goteleport.com). We are deeply grateful to researchers and our community who report issues so that we can coordinate a fix and responsible disclosure to those affected.
