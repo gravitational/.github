@@ -14,7 +14,7 @@ The [Teleport Infrastructure Identity Platform](https://goteleport.com/platform/
 - [Try Teleport for free](https://goteleport.com/signup/)
 
 ## Teleport Beams
-[Teleport Beams](https://beams.run), the trusted runtime for AI agents, is now generally available. Beams runs each agent in an ephemeral, isolated micro-VM with its own X.509 identity, tied to access delegated from a human, and the agent never holds the private key. Agents connect to cloud, database and Kubernetes resources without secrets, with least-privilege access, just-in-time elevation and tool-level RBAC for MCP servers. Every model call and infrastructure action is captured for audit, and Phases let you snapshot, fork and branch an agent's running state.
+[Teleport Beams](https://beams.run), the trusted runtime for AI agents, is now generally available. Beams runs each agent in an ephemeral, isolated micro-VM with its own X.509 identity, tied to access delegated from a human, and the agent never holds the private key. Agents connect to cloud, database and Kubernetes resources without secrets, with least-privilege access, just-in-time elevation and tool-level RBAC for MCP servers. Every model call and infrastructure action is captured for audit, and [Phases](https://goteleport.com/blog/phases-git-for-container-filesystems/) let you snapshot, fork and branch an agent's running state.
 
 - [Try Beams for free](https://www.beams.run/signup.html)
 - [Read the announcement](https://goteleport.com/blog/teleport-beams-secure-ai-agents-production/)
